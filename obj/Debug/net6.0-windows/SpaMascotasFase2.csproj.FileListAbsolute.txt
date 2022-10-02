@@ -1,0 +1,15 @@
+C:\Users\Estudiante\Documents\desarrollo\SpaMascotasFase2\bin\Debug\net6.0-windows\SpaMascotasFase2.exe
+C:\Users\Estudiante\Documents\desarrollo\SpaMascotasFase2\bin\Debug\net6.0-windows\SpaMascotasFase2.deps.json
+C:\Users\Estudiante\Documents\desarrollo\SpaMascotasFase2\bin\Debug\net6.0-windows\SpaMascotasFase2.runtimeconfig.json
+C:\Users\Estudiante\Documents\desarrollo\SpaMascotasFase2\bin\Debug\net6.0-windows\SpaMascotasFase2.dll
+C:\Users\Estudiante\Documents\desarrollo\SpaMascotasFase2\bin\Debug\net6.0-windows\SpaMascotasFase2.pdb
+C:\Users\Estudiante\Documents\desarrollo\SpaMascotasFase2\obj\Debug\net6.0-windows\SpaMascotasFase2.csproj.AssemblyReference.cache
+C:\Users\Estudiante\Documents\desarrollo\SpaMascotasFase2\obj\Debug\net6.0-windows\SpaMascotasFase2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Estudiante\Documents\desarrollo\SpaMascotasFase2\obj\Debug\net6.0-windows\SpaMascotasFase2.AssemblyInfoInputs.cache
+C:\Users\Estudiante\Documents\desarrollo\SpaMascotasFase2\obj\Debug\net6.0-windows\SpaMascotasFase2.AssemblyInfo.cs
+C:\Users\Estudiante\Documents\desarrollo\SpaMascotasFase2\obj\Debug\net6.0-windows\SpaMascotasFase2.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Documents\desarrollo\SpaMascotasFase2\obj\Debug\net6.0-windows\SpaMascotasFase2.dll
+C:\Users\Estudiante\Documents\desarrollo\SpaMascotasFase2\obj\Debug\net6.0-windows\refint\SpaMascotasFase2.dll
+C:\Users\Estudiante\Documents\desarrollo\SpaMascotasFase2\obj\Debug\net6.0-windows\SpaMascotasFase2.pdb
+C:\Users\Estudiante\Documents\desarrollo\SpaMascotasFase2\obj\Debug\net6.0-windows\SpaMascotasFase2.genruntimeconfig.cache
+C:\Users\Estudiante\Documents\desarrollo\SpaMascotasFase2\obj\Debug\net6.0-windows\ref\SpaMascotasFase2.dll
